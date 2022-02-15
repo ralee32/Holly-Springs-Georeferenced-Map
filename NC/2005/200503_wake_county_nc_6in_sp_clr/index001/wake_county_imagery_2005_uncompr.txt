@@ -1,0 +1,331 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Surdex Corporation
+      Publication_Date: 20060522
+      Title: wake-100
+      Geospatial_Data_Presentation_Form: vector digital data
+  Description:
+    Abstract:
+      1"=100' true color digital Orthophotos with a 0.5' ground pixel resolution
+      were produced for Wake County, NC
+    Purpose:
+      The dataset includes updated digital Orthophotography for the County's GIS
+      Database. The primary tasks focused on new color aerial photography,
+      scanning to digital imagery, primary and Q/C ground control, ortho only
+      DEM update, the production of new color digital Orthophotos, and a
+      conversion of all color Orthophotos to a black and white dataset. The
+      project area covers all of Wake County and a 750' buffer.
+    Supplemental_Information:
+      The update portion of this project involved the production 1"=100' true
+      color radiophotograph with a 0.5' ground pixel resolution. All
+      photogrammetric mapping products meet the National Standards for Spatial
+      Digital Accuracy (NSSDA) horizontal accuracy standards for 1"=100'
+      mapping. The Limiting RMSE (Root-Mean-Square-Error) for X or Y is 1.0
+      foot.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Multiple_Dates/Times:
+        Single_Date/Time:
+          Calendar_Date: 20050303
+          Time_of_Day: unknown
+        Single_Date/Time:
+          Calendar_Date: 20050304
+          Time_of_Day: unknown
+        Single_Date/Time:
+          Calendar_Date: 20050306
+          Time_of_Day: unknown
+        Single_Date/Time:
+          Calendar_Date: 20050329
+          Time_of_Day: unknown
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Unknown
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -79.000000
+      East_Bounding_Coordinate: -78.247082
+      North_Bounding_Coordinate: 36.078570
+      South_Bounding_Coordinate: 35.513076
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: 1"=100' true color Orthophotography
+      Theme_Keyword: 0.5' ground pixel resolution
+      Theme_Keyword: aerial photography
+      Theme_Keyword: orthos
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: ImageryBaseMapsEarthCover
+      Theme_Keyword: 010
+    Theme:
+      Theme_Keyword_Thesaurus:
+        American Society of Photogrammetry and Remote
+        Sensing
+      Theme_Keyword: National Standards for Spatial Digital Accuracy (NSSDA)
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: Wake County, NC
+  Access_Constraints: none
+  Use_Constraints: none
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Wright Lowery
+        Contact_Organization: Wake County, NC
+      Contact_Position: GIS Analyst - County PM
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Wake County Office Building
+        Address: 337 South Salisbury Street
+        Address: 5th Floor
+        City: Raleigh
+        State_or_Province: NC
+        Postal_Code: 27601
+        Country: USA
+      Contact_Voice_Telephone: 919-856-6391
+      Contact_Facsimile_Telephone: 919-856-6389
+      Contact_Electronic_Mail_Address: wlowery@co.wake.nc.us
+      Hours_of_Service: 8:30 am - 5:15 pm
+      Contact_Instructions:
+        To order the data on DVD, please contact the Wake
+        County GIS Customer Service Team (919) 856-6360 or
+        iMAPSHelpdesk@co.wake.nc.us. For questions about the Orthophotography,
+        please email Wright Lowery: wlowery@co.wake.nc.us or call Wright Lowery
+        at (919) 856-6391.
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      All photogrammetric mapping products are to meet the National Standards
+      for Spatial Digital Accuracy (NSSDA) horizontal accuracy standards for
+      1"=100' mapping. The Limiting RMSE (Root-Mean-Square-Error) for X or Y is
+      1.0 feet.
+    Quantitative_Attribute_Accuracy_Assessment:
+      Attribute_Accuracy_Value: See explanation
+      Attribute_Accuracy_Explanation:
+        Limiting RMSE (Root-Mean-Square-Error) will be less than or equal to
+        1/100th of the map scale.
+  Logical_Consistency_Report: The dataset was put through numerous proprietary quality control steps.
+  Completeness_Report:
+    All data was accounted for and prepared as specified in the contract between
+    Wake County, North Carolina and Surdex Corporation.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        Wake County, NC Fully Analytical
+        Aerial Triangulation Report
+      Quantitative_Horizontal_Positional_Accuracy_Assessment:
+        Horizontal_Positional_Accuracy_Value: 1.0
+        Horizontal_Positional_Accuracy_Explanation: Limiting RMSE (Root-Mean-Square-Error) will be less than or equal to
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Surdex Orthophotos
+          Publication_Date: Unpublished Material
+          Publication_Time: Unknown
+          Title: Surdex Orthophoto
+          Geospatial_Data_Presentation_Form: raster digital data
+      Source_Scale_Denominator: 660
+      Type_of_Source_Media: filmstrip
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Multiple_Dates/Times:
+            Single_Date/Time:
+              Calendar_Date: 20050303
+              Time_of_Day: unknown
+            Single_Date/Time:
+              Calendar_Date: 20050304
+              Time_of_Day: unknown
+            Single_Date/Time:
+              Calendar_Date: 20050306
+              Time_of_Day: unknown
+            Single_Date/Time:
+              Calendar_Date: 20050329
+              Time_of_Day: unknown
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: photography
+      Source_Contribution: imagery source
+    Process_Step:
+      Process_Description:
+        The process description for the source information is detailed in the
+        Fully Analytical Aerial Triangulation report for Wake County, NC. Any
+        other process descriptions regarding how the Orthophotos were produced
+        can be obtained from Surdex Corporation. The complete processes used by
+        Surdex contains sensitive business procedures that are proprietary to
+        Surdex. Surdex is willing to release this information to interested
+        parties provided a binding Non-Disclosure Agreement has been executed.
+      Source_Used_Citation_Abbreviation: none
+      Process_Date: Unknown
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Wade Williams
+            Contact_Organization: Surdex Corporation
+          Contact_Position: Project Manager
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 520 Spirit of St. Louis Blvd.
+            City: Chesterfield
+            State_or_Province: MO
+            Postal_Code: 63005
+            Country: US
+          Contact_Voice_Telephone: 636-532-3427
+          Contact_Facsimile_Telephone: 636-537-9638
+          Contact_Electronic_Mail_Address: wadew@surdex.com
+          Hours_of_Service: Monday-Friday 9:00a.m.-5:00p.m.
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+  Raster_Object_Information:
+    Raster_Object_Type: Pixel
+    Row_Count: 5000
+    Column_Count: 5000
+    Vertical_Count: 1
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Conformal Conic
+        Lambert_Conformal_Conic:
+          Standard_Parallel: 34.333333
+          Standard_Parallel: 36.166667
+          Longitude_of_Central_Meridian: -79.000000
+          Latitude_of_Projection_Origin: 33.750000
+          False_Easting: 2000000.002617
+          False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000512
+          Ordinate_Resolution: 0.000512
+        Planar_Distance_Units: survey feet
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983/86
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+      Altitude_Datum_Name: North American Vertical Datum of 1988
+      Altitude_Resolution: .0000001
+      Altitude_Distance_Units: feet
+      Altitude_Encoding_Method: Explicit elevation coordinate included with horizontal coordinates
+    Depth_System_Definition:
+      Depth_Datum_Name: Mean sea level
+      Depth_Resolution: .0000001
+      Depth_Distance_Units: feet
+      Depth_Encoding_Method: Implicit coordinate
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: wake-100
+      Entity_Type_Definition: Digital Color Orthophotos, 100' scale - Wake County, NC
+      Entity_Type_Definition_Source: Wake County, North Carolina
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Customer Service
+        Contact_Organization: Wake County, North Carolina
+      Contact_Position: Customer Service Team
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Wake County Office Building
+        Address: 337 South Salisbury Street
+        Address: 5th Floor
+        City: Raleigh
+        State_or_Province: NC
+        Postal_Code: 27601
+        Country: USA
+      Contact_Voice_Telephone: 919-856-6360
+      Contact_Electronic_Mail_Address: iMAPSHelpdesk@co.wake.nc.us
+      Hours_of_Service: 8:30 am - 5:15 pm
+      Contact_Instructions:
+        Contact Wake County GIS Customer Service Team
+        (919) 856-6360
+  Resource_Description: 2005 Color Digital Orthophotography (TIFFs) - Wake County, NC
+  Distribution_Liability:
+    Wake County GIS is charged with the development and
+    maintenance of the County's corporate geographic database and, in
+    cooperation with other mapping organizations, is committed to offering its
+    users accurate, useful, and current information about the County. Although
+    every effort has been made to ensure the accuracy of information, errors and
+    conditions originating from physical sources used to develop the database
+    may be reflected in the data supplied. The user must be aware of data
+    conditions and bear responsibility for the appropriate use of the
+    information with respect to possible errors, original map scale, collection
+    methodology, currency of data, and other conditions specific to certain
+    data. The use of trade names or commercial products does not constitute
+    their endorsement by the County.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: TIFF
+        Format_Version_Number: unknown
+        Format_Specification: TIFFs; for MrSIDs, contact Wake County GIS at 919-856-6212
+        File_Decompression_Technique: no compression applied
+        Transfer_Size: 285 GB
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: ISO 9660
+    Fees:
+      Individual tiles will be made available for download on the Wake
+      County website:http://www.wakegov.com/gis/gisdigitaldata.htm For current
+      price information, please see listing on Wake County website:
+      http://www.wakegov.com/gis/maps.htm
+    Ordering_Instructions:
+      Contact Wake County GIS Customer Service Team
+      (919)856-6360 or email iMAPSHelpdesk@co.wake.nc.us
+    Turnaround: Every effort will be made to process orders in one to two business days.
+  Custom_Order_Process: All custom services are billed at $30/hour.
+  Technical_Prerequisites:
+    Customer needs to have software installed on their
+    computer that supports the TIFF and MrSID data format (such as GIS software or a
+    recent version of CAD software). For customers who do not have access to
+    such software, there may be free data viewers available for download (see
+    http://www.lizardtech.com or http://www.esri.com )
+  Available_Time_Period:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2005
+        Time_of_Day: unknown
+Metadata_Reference_Information:
+  Metadata_Date: 20060703
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Carter Vickery
+        Contact_Organization: Wake County GIS
+      Contact_Position: GIS Analyst
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 337 S. Salisbury St.
+        City: Raleigh
+        State_or_Province: NC
+        Postal_Code: 27602
+        Country: USA
+      Contact_Voice_Telephone: (919) 856-6212
+      Contact_Facsimile_Telephone: (919) 856-6389
+      Contact_Electronic_Mail_Address: Carter.Vickery@co.wake.nc.us
+      Hours_of_Service: 8:30a.m. - 5:15p.m.
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: none
+  Metadata_Use_Constraints: none
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: none
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: none
+  Metadata_Extensions:
+    Online_Linkage: <http://www.esri.com/metadata/esriprof80.html>
+    Profile_Name:
+      ESRI Metadata Profile
+
+      Generated by mp version 2.8.12 on Wed Mar 29 19:13:46 2006
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

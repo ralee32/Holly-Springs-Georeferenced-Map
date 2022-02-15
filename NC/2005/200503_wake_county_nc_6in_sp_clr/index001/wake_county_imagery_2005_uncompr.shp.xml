@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Surdex Corporation</origin>
+				<pubdate>20060522</pubdate>
+				<title Sync="TRUE">wake-100</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<ftname Sync="TRUE">wake-100</ftname><onlink Sync="TRUE">\\ENVIRO\G\Wake County Imagery\wake-100.shp</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>
+1"=100' true color digital Orthophotos with a 0.5' ground pixel resolution
+were produced for Wake County, NC
+</abstract>
+			<purpose>
+The dataset includes updated digital Orthophotography for the County's GIS
+Database. The primary tasks focused on new color aerial photography,
+scanning to digital imagery, primary and Q/C ground control, ortho only
+DEM update, the production of new color digital Orthophotos, and a
+conversion of all color Orthophotos to a black and white dataset. The
+project area covers all of Wake County and a 750' buffer.
+</purpose>
+			<supplinf>
+The update portion of this project involved the production 1"=100' true
+color radiophotograph with a 0.5' ground pixel resolution. All
+photogrammetric mapping products meet the National Standards for Spatial
+Digital Accuracy (NSSDA) horizontal accuracy standards for 1"=100'
+mapping. The Limiting RMSE (Root-Mean-Square-Error) for X or Y is 1.0
+foot.
+</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<mdattim>
+					<sngdate>
+						<caldate>20050303</caldate>
+						<time>unknown</time>
+					</sngdate>
+					<sngdate>
+						<caldate>20050304</caldate>
+						<time>unknown</time>
+					</sngdate>
+					<sngdate>
+						<caldate>20050306</caldate>
+						<time>unknown</time>
+					</sngdate>
+					<sngdate>
+						<caldate>20050329</caldate>
+						<time>unknown</time>
+					</sngdate>
+				</mdattim>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Unknown</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-79.000000</westbc>
+				<eastbc>-78.247082</eastbc>
+				<northbc>36.078570</northbc>
+				<southbc>35.513076</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">2000000.000000</leftbc><rightbc Sync="TRUE">2222500.000000</rightbc><bottombc Sync="TRUE">642500.000000</bottombc><topbc Sync="TRUE">847500.000000</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>1"=100' true color Orthophotography</themekey>
+				<themekey>0.5' ground pixel resolution</themekey>
+				<themekey>aerial photography</themekey>
+				<themekey>orthos</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>ImageryBaseMapsEarthCover</themekey>
+				<themekey>010</themekey>
+			</theme>
+			<theme>
+				<themekt>
+American Society of Photogrammetry and Remote
+Sensing
+</themekt>
+				<themekey>National Standards for Spatial Digital Accuracy (NSSDA)</themekey>
+			</theme>
+			<place>
+				<placekt>none</placekt>
+				<placekey>Wake County, NC</placekey>
+			</place>
+		</keywords>
+		<accconst>none</accconst>
+		<useconst>none</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Wright Lowery</cntper>
+					<cntorg>Wake County, NC</cntorg>
+				</cntperp>
+				<cntpos>GIS Analyst - County PM</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Wake County Office Building</address>
+					<address>337 South Salisbury Street</address>
+					<address>5th Floor</address>
+					<city>Raleigh</city>
+					<state>NC</state>
+					<postal>27601</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>919-856-6391</cntvoice>
+				<cntfax>919-856-6389</cntfax>
+				<cntemail>wlowery@co.wake.nc.us</cntemail>
+				<hours>8:30 am - 5:15 pm</hours>
+				<cntinst>
+To order the data on DVD, please contact the Wake
+County GIS Customer Service Team (919) 856-6360 or
+iMAPSHelpdesk@co.wake.nc.us. For questions about the Orthophotography,
+please email Wright Lowery: wlowery@co.wake.nc.us or call Wright Lowery
+at (919) 856-6391.
+</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>
+All photogrammetric mapping products are to meet the National Standards
+for Spatial Digital Accuracy (NSSDA) horizontal accuracy standards for
+1"=100' mapping. The Limiting RMSE (Root-Mean-Square-Error) for X or Y is
+1.0 feet.
+</attraccr>
+			<qattracc>
+				<attraccv>See explanation</attraccv>
+				<attracce>
+Limiting RMSE (Root-Mean-Square-Error) will be less than or equal to
+1/100th of the map scale.
+</attracce>
+			</qattracc>
+		</attracc>
+		<logic>The dataset was put through numerous proprietary quality control steps.</logic>
+		<complete>
+All data was accounted for and prepared as specified in the contract between
+Wake County, North Carolina and Surdex Corporation.
+</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+Wake County, NC Fully Analytical
+Aerial Triangulation Report
+</horizpar>
+				<qhorizpa>
+					<horizpav>1.0</horizpav>
+					<horizpae>Limiting RMSE (Root-Mean-Square-Error) will be less than or equal to</horizpae>
+				</qhorizpa>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Surdex Orthophotos</origin>
+						<pubdate>Unpublished Material</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Surdex Orthophoto</title>
+						<geoform>raster digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>660</srcscale>
+				<typesrc>filmstrip</typesrc>
+				<srctime>
+					<timeinfo>
+						<mdattim>
+							<sngdate>
+								<caldate>20050303</caldate>
+								<time>unknown</time>
+							</sngdate>
+							<sngdate>
+								<caldate>20050304</caldate>
+								<time>unknown</time>
+							</sngdate>
+							<sngdate>
+								<caldate>20050306</caldate>
+								<time>unknown</time>
+							</sngdate>
+							<sngdate>
+								<caldate>20050329</caldate>
+								<time>unknown</time>
+							</sngdate>
+						</mdattim>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>photography</srccitea>
+				<srccontr>imagery source</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+The process description for the source information is detailed in the
+Fully Analytical Aerial Triangulation report for Wake County, NC. Any
+other process descriptions regarding how the Orthophotos were produced
+can be obtained from Surdex Corporation. The complete processes used by
+Surdex contains sensitive business procedures that are proprietary to
+Surdex. Surdex is willing to release this information to interested
+parties provided a binding Non-Disclosure Agreement has been executed.
+</procdesc>
+				<srcused>none</srcused>
+				<procdate>Unknown</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Wade Williams</cntper>
+							<cntorg>Surdex Corporation</cntorg>
+						</cntperp>
+						<cntpos>Project Manager</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>520 Spirit of St. Louis Blvd.</address>
+							<city>Chesterfield</city>
+							<state>MO</state>
+							<postal>63005</postal>
+							<country>US</country>
+						</cntaddr>
+						<cntvoice>636-532-3427</cntvoice>
+						<cntfax>636-537-9638</cntfax>
+						<cntemail>wadew@surdex.com</cntemail>
+						<hours>Monday-Friday 9:00a.m.-5:00p.m.</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Raster</direct>
+		<rastinfo>
+			<rasttype>Pixel</rasttype>
+			<rowcount>5000</rowcount>
+			<colcount>5000</colcount>
+			<vrtcount>1</vrtcount>
+		</rastinfo>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<mapproj>
+					<mapprojn>Lambert Conformal Conic</mapprojn>
+					<lambertc>
+						<stdparll>34.333333</stdparll>
+						<stdparll>36.166667</stdparll>
+						<longcm>-79.000000</longcm>
+						<latprjo>33.750000</latprjo>
+						<feast>2000000.002617</feast>
+						<fnorth>0.000000</fnorth>
+					</lambertc>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000512</absres>
+						<ordres>0.000512</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983/86</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+		<vertdef>
+			<altsys>
+				<altdatum>North American Vertical Datum of 1988</altdatum>
+				<altres>.0000001</altres>
+				<altunits>feet</altunits>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+			<depthsys>
+				<depthdn>Mean sea level</depthdn>
+				<depthres>.0000001</depthres>
+				<depthdu>feet</depthdu>
+				<depthem>Implicit coordinate</depthem>
+			</depthsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="wake-100">
+			<enttyp>
+				<enttypl Sync="TRUE">wake-100</enttypl>
+				<enttypd>Digital Color Orthophotos, 100' scale - Wake County, NC </enttypd>
+				<enttypds>Wake County, North Carolina</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">4086</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">IMAGENAME</attrlabl><attalias Sync="TRUE">IMAGENAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth></attr><attr><attrlabl Sync="TRUE">FULLPATH</attrlabl><attalias Sync="TRUE">FULLPATH</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr><attr><attrlabl Sync="TRUE">XMIN</attrlabl><attalias Sync="TRUE">XMIN</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">YMIN</attrlabl><attalias Sync="TRUE">YMIN</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">XMAX</attrlabl><attalias Sync="TRUE">XMAX</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">YMAX</attrlabl><attalias Sync="TRUE">YMAX</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Customer Service</cntper>
+					<cntorg>Wake County, North Carolina</cntorg>
+				</cntperp>
+				<cntpos>Customer Service Team</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Wake County Office Building</address>
+					<address>337 South Salisbury Street</address>
+					<address>5th Floor</address>
+					<city>Raleigh</city>
+					<state>NC</state>
+					<postal>27601</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>919-856-6360</cntvoice>
+				<cntemail>iMAPSHelpdesk@co.wake.nc.us</cntemail>
+				<hours>8:30 am - 5:15 pm</hours>
+				<cntinst>
+Contact Wake County GIS Customer Service Team
+(919) 856-6360
+</cntinst>
+			</cntinfo>
+		</distrib>
+		<resdesc>2005 Color Digital Orthophotography (TIFFs) - Wake County, NC</resdesc>
+		<distliab>
+Wake County GIS is charged with the development and
+maintenance of the County's corporate geographic database and, in
+cooperation with other mapping organizations, is committed to offering its
+users accurate, useful, and current information about the County. Although
+every effort has been made to ensure the accuracy of information, errors and
+conditions originating from physical sources used to develop the database
+may be reflected in the data supplied. The user must be aware of data
+conditions and bear responsibility for the appropriate use of the
+information with respect to possible errors, original map scale, collection
+methodology, currency of data, and other conditions specific to certain
+data. The use of trade names or commercial products does not constitute
+their endorsement by the County.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>TIFF</formname>
+					<formvern>unknown</formvern>
+					<formspec>TIFFs; for MrSIDs, contact Wake County GIS at 919-856-6212</formspec>
+					<filedec>no compression applied</filedec>
+					<transize>285 GB</transize>
+					<dssize Sync="TRUE">0.468</dssize></digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>CD-ROM</offmedia>
+						<recfmt>ISO 9660</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>
+Individual tiles will be made available for download on the Wake
+County website:http://www.wakegov.com/gis/gisdigitaldata.htm For current
+price information, please see listing on Wake County website:
+http://www.wakegov.com/gis/maps.htm
+</fees>
+			<ordering>
+Contact Wake County GIS Customer Service Team
+(919)856-6360 or email iMAPSHelpdesk@co.wake.nc.us
+</ordering>
+			<turnarnd>Every effort will be made to process orders in one to two business days.</turnarnd>
+		</stdorder>
+		<custom>All custom services are billed at $30/hour.</custom>
+		<techpreq>
+Customer needs to have software installed on their
+computer that supports the MrSID data format (such as GIS software or a
+recent version of CAD software). For customers who do not have access to
+such software, there may be free data viewers available for download (see
+http://www.lizardtech.com or http://www.esri.com )
+</techpreq>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>2005</caldate>
+					<time>unknown</time>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20060703</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Carter Vickery</cntper>
+					<cntorg>Wake County GIS</cntorg>
+				</cntperp>
+				<cntpos>GIS Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>337 S. Salisbury St.</address>
+					<city>Raleigh</city>
+					<state>NC</state>
+					<postal>27602</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(919) 856-6212</cntvoice>
+				<cntfax>(919) 856-6389</cntfax>
+				<cntemail>Carter.Vickery@co.wake.nc.us</cntemail>
+				<hours>8:30a.m. - 5:15p.m.</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>none</metac>
+		<metuc>none</metuc>
+		<metsi>
+			<metscs>none</metscs>
+			<metsc>Unclassified</metsc>
+			<metshd>none</metshd>
+		</metsi>
+		<metextns>
+			<onlink>&lt;http://www.esri.com/metadata/esriprof80.html&gt;</onlink>
+			<metprof>
+ESRI Metadata Profile
+
+Generated by mp version 2.8.12 on Wed Mar 29 19:13:46 2006
+</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{E5D09DCF-C04B-4A69-8BF3-6BEDD570FE9C}</MetaID><CreaDate>20060703</CreaDate><CreaTime>08510900</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20060703</SyncDate><SyncTime>08581100</SyncTime><ModDate>20060703</ModDate><ModTime>08585000</ModTime><DataProperties><lineage><Process Name="DefineProjection_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20060703" Time="143157">DefineProjection "G:\Wake County Imagery\wake-100.shp" PROJCS['NAD_1983_StatePlane_North_Carolina_FIPS_3200_Feet',GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Lambert_Conformal_Conic'],PARAMETER['False_Easting',2000000.002616666],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-79.0],PARAMETER['Standard_Parallel_1',34.33333333333334],PARAMETER['Standard_Parallel_2',36.16666666666666],PARAMETER['Latitude_Of_Origin',33.75],UNIT['Foot_US',0.3048006096012192]] "G:\Wake County Imagery\wake-100.shp"</Process></lineage></DataProperties></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">wake-100</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">2000000</westBL><eastBL Sync="TRUE">2222500</eastBL><northBL Sync="TRUE">847500</northBL><southBL Sync="TRUE">642500</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\ENVIRO\G\Wake County Imagery\wake-100.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.468</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="wake-100"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">4086</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20060703</mdDateSt></metadata>
